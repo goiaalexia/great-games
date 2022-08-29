@@ -1,6 +1,5 @@
 # ♟️ Achi
 * console-based version of the alignment game, in which two players must drop and move pieces on a board.
-* ##### final exam for fundamentals of programming (february 2022)
 ----  
 ## How to play: 
 
