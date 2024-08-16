@@ -23,8 +23,30 @@ This project encompasses a collection of Python-based console games. Designed wi
 
 Feel free to contribute to this repository by creating a pull request!
 
+
 ## License
+
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
-### Note
+---
+
+**Jump to:** [A](#a) | [C](#c) | [O](#o) | [R](#r)
+
+---
+
+### A
+- [Achi](https://github.com/saltylex/game-collection/tree/main/Achi%20Game)
+
+### C
+- [Code Runners](https://github.com/saltylex/game-collection/tree/main/Code%20Runners%20Game)
+
+### O
+- [Obstruction](https://github.com/saltylex/game-collection/tree/main/Obstruction%20Game)
+
+### R
+- [Rock, Paper, Scissors!](https://github.com/saltylex/game-collection/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)
+
+
+## Note
+
 This project is old. It was written in 2021, and it is here only for showcase purposes. Check out my more recent projects!
